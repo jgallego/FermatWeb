@@ -1,0 +1,5 @@
+ACERTIJO 28
+
+¿Cuál es el mínimo número veces que hay pulsar las teclas para obtener el número 16 cuando está recién encendida?
+
+CÓDIGO = SOLUCIÓN = 5

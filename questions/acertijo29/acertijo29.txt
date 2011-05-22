@@ -1,0 +1,5 @@
+ACERTIJO 29
+
+¿Cuál es la cifra de las unidades del número de granos de trigo pedidos?
+
+CÓDIGO = SOLUCIÓN = 5

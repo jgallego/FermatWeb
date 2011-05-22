@@ -1,0 +1,1 @@
+Completa el cuadrado con números consecutivos que se conecten de forma horizantal, vertical o diagonal
